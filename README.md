@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chamindu_wn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chamindu_wn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chamindu wn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamindu wn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Chamindu WN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamindu wn" height="30" width="40" /></a>
 <a href="https://fb.com/chamindu wn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamindu wn" height="30" width="40" /></a>
 <a href="https://instagram.com/chamindu_wn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chamindu_wn" height="30" width="40" /></a>
 </p>
@@ -78,14 +78,14 @@
 
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chamindu2001&theme=algolia" alt="chamindu2001"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaminduWn&theme=algolia" alt="ChaminduWn"  /></p>
 
 
 
 <hr>
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=chamindu2001&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=ChaminduWn&theme=juicyfresh&no-bg=true" />
 
 
 -----
