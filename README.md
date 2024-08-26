@@ -15,7 +15,7 @@
 
 - 🤝 I’m Undergraduate at **SLIIT**
 
-- 👨‍💻 All of my projects are available at [https://github.com/chamindu2001](https://github.com/ChaminduWn)
+- 👨‍💻 All of my projects are available at [https://github.com/ChaminduWn](https://github.com/ChaminduWn)
 
 - 📫 How to reach me **chaminduwn@gmail.com**
 
